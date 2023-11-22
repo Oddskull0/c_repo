@@ -6,11 +6,11 @@ void swap(char *str, int i, int j) {
     str[j] = tmp;
 }
 
-void reverse_string(char* str, int len) {
+void reverse_stringchar* str, int len) {
     int n = len;
     int center = n / 2 ;
     for () {
-        ...
+        
     }
 }
 
